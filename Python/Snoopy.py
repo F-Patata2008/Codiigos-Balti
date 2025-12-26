@@ -1,0 +1,8 @@
+print("hi")
+input("credit card number")
+input ("debit card number")
+input("bank credit card")
+input("bank debit card")
+input("real name")
+input("do you have a pet ,yes  is 70 d no is 1000000 d ")
+print("thanks for catch your money")
